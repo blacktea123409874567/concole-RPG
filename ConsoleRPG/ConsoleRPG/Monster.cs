@@ -19,7 +19,7 @@ namespace ConsoleRPG
         public static Monster CreateRandomMonster()
         {
             Random random = new Random();
-            string[] monsterNames = { "Гоблин", "Орк", "Скелет", "Зомби", "Волк", "Паук" ,"гуманитарий"};
+            string[] monsterNames = { "Гоблин", "Орк", "Скелет", "Зомби", "Волк", "Паук"};
             string name = monsterNames[random.Next(monsterNames.Length)];
 
             int health = random.Next(30, 61);
@@ -39,4 +39,5 @@ namespace ConsoleRPG
             Console.WriteLine($"status {status}\n\n");
         }
     }
+
 }
