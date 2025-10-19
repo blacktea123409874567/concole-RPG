@@ -1,0 +1,14 @@
+E:\vs_project\ConsoleRPG\ConsoleRPG\bin\Debug\net8.0\ConsoleRPG.exe
+E:\vs_project\ConsoleRPG\ConsoleRPG\bin\Debug\net8.0\ConsoleRPG.deps.json
+E:\vs_project\ConsoleRPG\ConsoleRPG\bin\Debug\net8.0\ConsoleRPG.runtimeconfig.json
+E:\vs_project\ConsoleRPG\ConsoleRPG\bin\Debug\net8.0\ConsoleRPG.dll
+E:\vs_project\ConsoleRPG\ConsoleRPG\bin\Debug\net8.0\ConsoleRPG.pdb
+E:\vs_project\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs_project\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.AssemblyInfoInputs.cache
+E:\vs_project\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.AssemblyInfo.cs
+E:\vs_project\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.csproj.CoreCompileInputs.cache
+E:\vs_project\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.dll
+E:\vs_project\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\refint\ConsoleRPG.dll
+E:\vs_project\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.pdb
+E:\vs_project\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.genruntimeconfig.cache
+E:\vs_project\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\ref\ConsoleRPG.dll
